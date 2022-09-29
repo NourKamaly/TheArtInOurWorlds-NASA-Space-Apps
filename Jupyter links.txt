@@ -1,0 +1,8 @@
+Summerization :
+
+https://colab.research.google.com/drive/1Z4ogBq9sWZWxDzwPB3AFcF6SPEw_XeQa?usp=sharing
+
+
+Doc2Doc-Similarity:
+
+https://colab.research.google.com/drive/1R-jzSIkvvybEOxc3BEnDo2NB-652uMSk?usp=sharing
