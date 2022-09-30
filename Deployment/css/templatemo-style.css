@@ -38,7 +38,7 @@ p {
 	background-color: #fff;
 	font-size: 15px;
 	padding: 12px 18px;
-	color: #121212;
+	color: #ffffff;
 	font-weight: 500;
 	letter-spacing: 1px;
 	text-transform: uppercase;
@@ -190,7 +190,7 @@ p {
 }
 
 .header.active {
-    background-color: rgba(250, 250, 250, 0.98);
+    background-color: #e8e8e8;
     -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
     -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
@@ -205,7 +205,7 @@ p {
 }
 .navbar-brand em {
 	font-style: normal;
-	color: #f7c552;
+	color: #d94f4f!important;
 	font-size: 32px;
 }
 .header.active .navbar-brand {
@@ -298,12 +298,12 @@ p {
 .baner-content .text-content h2 em {
 	font-style: normal;
 	font-weight: 700;
-	color: #f89624!important;
+	color: #d94f4f!important;
 }
 
 .baner-content .text-content p {
 	color: #fff;
-	font-size: 18px;
+	font-size: 22px;
 	line-height: 24px;
 	padding: 0px 25%;
 }
@@ -397,12 +397,13 @@ p {
 }
 
 #portfolio .section-heading {
-	padding-top: 200px;
-	padding-bottom: 200px;
-	background-color: #0e1010;
-	height: 732px;
-	margin-left: -100vh;
-	padding-left: 100vh;
+	padding-top: 135px;
+    padding-bottom: 200px;
+    background-color: #0e1010;
+    height: 732px;
+    margin-left: -108vh;
+    padding-left: 99vh;
+    margin-right: 130px;
 }
 
 #portfolio .project-item {
@@ -432,7 +433,7 @@ p {
 
 
 #testimonial {
-	background-color: #f7c552;
+	background-color: #d94f4f!important;
 	text-align: center;
 	padding: 100px 0px;
 }
@@ -995,4 +996,14 @@ footer .connect-us ul li a:hover {
 		border-right: none;
 	}
 
+}
+#mainButton
+{
+	background: rgb(131,58,180);
+	background: linear-gradient(90deg, rgba(131,58,180,1) 8%, rgba(253,29,29,1) 100%, rgba(252,176,69,1) 100%);
+}
+#mainButton1
+{
+	background: rgb(131,58,180);
+	background: linear-gradient(90deg, rgba(131,58,180,1) 8%, rgba(253,29,29,1) 100%, rgba(252,176,69,1) 100%);
 }
