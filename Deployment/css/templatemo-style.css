@@ -88,6 +88,7 @@ p {
 	border-radius: 40px;
 	box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
 	background: #fff;
+	margin-left: -75px;
 }
 
 
@@ -333,7 +334,7 @@ p {
 	line-height: 104px;
 	border: 3px solid #fff;
 	border-radius: 50%;
-	background-color: #f7c552;
+	background-color: #d94f4f!important;
 }
 
 #about .service-item h4 {
@@ -389,7 +390,7 @@ p {
 }
 
 .filter-categories ul li.active span {
-  color: #f7c552;
+  color: #d94f4f!important;
 }
 
 #portoflio .page-section {
@@ -554,11 +555,11 @@ p {
 }
 
 .tabs a:hover {
-  color: #f7c552;
+  color: #d94f4f!important;
 }
 
 .tabs .active {
-  color: #f7c552;
+  color: #d94f4f!important;
 }
 #first-tab-group {
 	margin-top: 30px;
@@ -725,7 +726,7 @@ footer {
 footer .logo em {
 	font-style: normal;
 	font-size: 28px;
-	color: #f7c552;
+	color: #d94f4f!important;
 }
 footer .logo-ft {
 	display: inline-block;
@@ -1000,8 +1001,17 @@ footer .connect-us ul li a:hover {
 	background: rgb(131,58,180);
 	background: linear-gradient(90deg, rgba(131,58,180,1) 8%, rgba(253,29,29,1) 100%, rgba(252,176,69,1) 100%);
 }
-#mainButton1
+.mainButton1
 {
 	background: rgb(131,58,180);
 	background: linear-gradient(90deg, rgba(131,58,180,1) 8%, rgba(253,29,29,1) 100%, rgba(252,176,69,1) 100%);
+}
+#mainButton12
+{
+	margin-left: -86px
+	margin-left: -86px;
+    width: 63px;
+    border-radius: 50%;
+	padding: 17px 15px;
+    margin-left: -120px;
 }
