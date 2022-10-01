@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "art-in-our-world",
+  "private_key_id": "d728e27af8920d8613e34a5967ff64bce1245e0d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxyzybo2hQKYLC\nEcN8P4qM3Wt01HdHdQVPJLiqPMnyZyGnAW6qqEngIWwu2byEo5WAyaELqabIxyUV\nUbX2fygHNJE6X6LGv+JFbBD2VaBcNMG6yXB6BuRpPrxrLrvlRtfoY6mIx7vZ0iqN\nuuyIEG6dwAQyyuzL+l5JZ92UDdqJrfvFR8NY6s/vcUta4IwK/9FtFOxd+n1smItF\nLjNwBFg41MLGI9srwXvB+Xnt9dy3hEKzQUmHXxxKWFZs1/xK9Db+vlyGjDSzLL/1\n2TwFA/Kz8VIfUj3eiVlTHtW4m25XV+1PqJNNv0GfQdGE9cAfc/huiYo4x5AVWdgG\na5BZ0nblAgMBAAECggEAFKn7bFdsq0x3zxiDcPBtqPufHqAHEP4P1Of+soKIMi08\nYw2ukBUpKOyZh0R1PbFJkgNdPV7FbLaAn960WGbk/xlj+7Xb1F++67SosAi5r53O\nGmiJMxWT/It3GLoAyqAWPgM/VA9qzOE5Yumjzhii0qDbnA+rv/VkegGhZjDKApBN\niEeJ/2v5iOHVoPe+71p3F8pg5E15tNGLKILcNg3vKWz50rOJLRMt5QXEyO56sA/u\nLb31yojDM5vQU6o9ZkkiyRKrQUdbnAYWoPKIbzSUewSK+UcT52YxM31WEBu0gcOy\ngxcaAyyg/q/OwZrBVWgQnKwmAGmpI0J2OmtoslLGTQKBgQDVdbu9Lvu30PgZOqUe\ndKFTgZM3gChu+Pi23gQQF0N/N0TCh0inlrPWxw2t/ySH9AHOPQcsc7sud1N6QEdu\nTSCbHCj+K6UoV9sKubHO34COhfgRywpHnVVRE8KN4g1P4l4NpiTJjoqkwJ8U2+4v\n/Kc83FKjEVMec1oYKK3QiknK3wKBgQDVOeZ9gsN4nYlpa16NgztsMwthOW0pbglu\nGGJor1vg/jJs0EU9+wLbYusyuCkY2q3WCjPx+Svi7Ch0RcCdB9uSZnvQj3JLU8Rt\nYK58/DUPKYlVX9/eYFJtn39zYWbgZh0v/rFs+giLr1Igqrn2PBgMx4bE2qLOS6u+\nfgBTKWN6uwKBgEoyTjuIJT7TiClc1SAs8haQp5dXGLbaG7mUmlzteSyzDVeApqR6\nIbC6J+sfEJehHS+OzvuIjrusBnwr86hHbtn7g9Q1X4cSYrTrrv51eb4QmxW0ObKC\n4bD46VtgA7iMupyL76WPwmlZ+vHJMJXFgGwLOT4tO3MOLXbQTPp71wKJAoGAdTLM\nA7S6KDO+8Zi4cePt53zvBlOAMsNun3r7rDqmr7ZIlRKs3HJ5kYh/anNa83RPFFSr\nVJb2jlXrrm0gf69v+rol1+7gjZLPZqc7gStHJrxX5fs6m4oqBGMktJCW8URvSpAd\niZ6sz8pfw+DTMgq51VxeMRlTXzyse5naJ9uZ+D0CgYA5ZwV4vMPIewu5jqwAdKRR\nSqxd2ObOQpm2bkB3jLuF6B+K4FVnCCuw5ZBiZ8rReuZM7KXlLyjAXgdDEmr+JWrq\nrI3gaHuD2qzyGSacyMFNumgySdAetTkycXkTeNqyZTh2+VrQJH5lW9uSDMcaUOBk\nlDCETYwOAXWCxVMrBhFYyQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-98mqz@art-in-our-world.iam.gserviceaccount.com",
+  "client_id": "117015720897995139866",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-98mqz%40art-in-our-world.iam.gserviceaccount.com"
+}
