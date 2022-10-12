@@ -1,5 +1,5 @@
 # TheArtInOurWorlds-NASA-Space-Apps
-NASA space apps Cairo 2022 local winner (Cairo).
+NASA space apps Cairo 2022 local winner.
 
 This project is the solution designed for the NASA space apps hackathon 2022 by team NASART solving challenge: The Art in Our Worlds. 
 
